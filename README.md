@@ -2,7 +2,7 @@
 
 Um script Bash interativo projetado para auxiliar administradores de infraestrutura e backup na identificação e resolução de problemas de **alto consumo de espaço** (Active Tier) em sistemas Dell EMC Data Domain.
 
-Este projeto é totalmente baseado no roteiro de diagnóstico oficial da **Dell (KB 000054303)**.
+Este projeto é totalmente baseado no roteiro de diagnóstico oficial da **DellEMC**.
 
 ## 📋 Funcionalidades
 
